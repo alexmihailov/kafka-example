@@ -1,0 +1,1 @@
+Пример Kafka producer/consumer
